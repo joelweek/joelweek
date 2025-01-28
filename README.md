@@ -1,16 +1,38 @@
-## Hi there 👋
+# 🦊 Hi, I’m @joelweek  
 
-<!--
-**joelweek/joelweek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me:
+- 🔥 17-year-old programmer and furry enthusiast from **Poland**
+- 🌈 Gay and furry (that's just the way I am ok...)
 
-Here are some ideas to get you started:
+### 💻 **Tech Stack & Skills**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🌐 **Frontend**:  
+- **HTML5**, **CSS3**, **Tailwind CSS**, **JavaScript**, **TypeScript**  
+- Frameworks: **React**, **Next.js**  
+- **React Native**, **Expo** (mobile development)
+
+#### ⚙️ **Backend**:  
+- **Node.js**, **TypeScript**  
+- Building and managing **REST APIs**  
+- **CRON Jobs** (process automation)  
+- Developing **advanced API systems** (encrypted, scalable)
+
+#### 🛡️ **Security**:  
+- Creating **anti-DDoS protections** for **L7** and **L4** layers  
+- Designing and implementing **data encryption systems**
+
+#### 🔧 **DevOps & Infrastructure**:  
+- **Advanced configuration** for large-scale infrastructure needs  
+- **Infrastructure management**: scaling, provisioning, and optimization  
+- **Monitoring systems** to ensure high availability and performance
+
+#### 🔍 **Reverse Engineering**:  
+- Analyzing and optimizing existing systems  
+- **Debugging** and identifying critical bugs  
+- **Reporting issues** selectively: only reporting bugs that are impactful or relevant to the project’s goals
+
+### 🤝 Collaboration:
+- Open to working on innovative projects
+
+### 📫 How to Reach Me:
+- Discord: Feel free to DM me at **joel.week**  
